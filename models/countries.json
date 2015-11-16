@@ -1,0 +1,869 @@
+{
+  "countries":{
+
+    "afghanistan": {
+      "displayName": "Afghanistan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "alaska": {
+      "displayName": "Alaska",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "albania": {
+      "displayName": "Albania",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "algeria" : {
+      "displayName": "Algeria",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "angola": {
+      "displayName": "Angola",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "argentina": {
+      "displayName": "Argentina",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "armenia": {
+      "displayName": "Armenia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "australia" : {
+      "displayName": "Australia",
+      "beautySolution": "Flake-Free Hair",
+      "solutionDescription": "Australians are known for their natural haircare techniques: A popular dandruff remedy is to add a few drops of eucalyptus oil or tea tree oil to your favorite shampoo and use as normal."
+    },
+    "austria": {
+      "displayName": "Austria",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "azerbaijan": {
+      "displayName": "Azerbaijan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "belarus": {
+      "displayName": "Belarus",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "belgium": {
+      "displayName": "Belgium",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "belize": {
+      "displayName": "Belize",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "benin": {
+      "displayName": "Benin",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "bhutan": {
+      "displayName": "Bhutan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "bissau": {
+      "displayName": "Bissau",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "bolivia": {
+      "displayName": "Bolivia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "bosnia": {
+      "displayName": "Bosnia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "botswana": {
+      "displayName": "Botswana",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "brazil": {
+      "displayName": "Brazil",
+      "beautySolution": "Sunburn Relief",
+      "solutionDescription": "Next time you get a sunburn, grab a box of... Quaker Oats!? Sun-loving Brazilians have an interesting sunburn remedy: Next time you get a burn, tie some oatmeal in gauze and position it over the tap of your bathtub - allowing the water to filter through the oats. Soak in the tub, and soak up the oatmeals amazing anti-inflammatory healing properties."
+    },
+    "britain": {
+      "displayName": "United Kingdom",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "brunei": {
+      "displayName": "Brunei",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "bulgaria": {
+      "displayName": "Bulgaria",
+      "beautySolution": "Glowing Skin",
+      "solutionDescription": "From Bulgarian beauty editor Maria Georgieva: 'Rose water is our secret for keeping the face clean and moisturized' - no surprise since Bulgaria produces 85% of the world's rose oil - the key ingredient to rose water."
+    },
+    "burkina": {
+      "displayName": "Burkina Faso",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "burma": {
+      "displayName": "Burma",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "burundi": {
+      "displayName": "Burundi",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "cabinda": {
+      "displayName": "Republic of Cabinda",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "cambodia": {
+      "displayName": "Cambodia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "cameroon": {
+      "displayName": "Cameroon",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "canada": {
+      "displayName": "Canada",
+      "beautySolution": "Brighter Skin",
+      "solutionDescription": "According to Canadian beauty editor, Vanessa Craft: 'we love anything containing argan oil that we can smother on our hair or repair wind burnt or dry skin. Ingredients wise, fruit stem cells are big news right now and, true to their Canadian spirit, B Kamins harness the antioxidant powers of our ubiquitous maple syrup to hydrate and brighten.'"
+    },
+    "casamance": {
+      "displayName": "Casamance",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "centrafrique": {
+      "displayName": "Central African Republic",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+
+    "chad": {
+      "displayName": "Chad",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "chile": {
+      "displayName": "Chile",
+      "beautySolution": "Glowing Skin",
+      "solutionDescription": "For vibrant skin, take a note from the women in Chile: They use crushed grapes (about 1 handful) mixed with (a couple tablespoons) of white flour. Apply to face, wait ten minutes then rinse off."
+    },
+    "china": {
+      "displayName": "China",
+      "beautySolution": "Brighter Skin!",
+      "solutionDescription": "From Chinese beauty director Lettie Tseng: 'In China, we believe that pearl powder can make our skin look brighter and clear. Also, it is said that the water from cleaning rice can be used to wash your face, because some of the nutrients it contains help resolve the oil and dirt from the skin.'"
+    },
+    "colombia": {
+      "displayName": "Columbia",
+      "beautySolution": "Shiny Hair",
+      "solutionDescription": "Feed your hair with this pantry-stapl Columbian hair tip: Blend together an avocado, a banana and a tablespoon of olive oil until it forms a uniform paste. Apply to hair from root to tip, wait 30 minutes, then shampoo and condition like normal."
+    },
+    "congo": {
+      "displayName": "Congo",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "corsica": {
+      "displayName": "Corsica",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "costa_rica": {
+      "displayName": "Costa Rica",
+      "beautySolution": "Shrink Your Pores",
+      "solutionDescription": "Costa Rican women have an easy tip to shrink pores in a snap: Apply a mixture of 50% orange juice and 50% water to the face with a cotton ball, wait a few minutes then rinse."
+    },
+    "crete": {
+      "displayName": "Crete",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "croatia": {
+      "displayName": "Croatia",
+      "beautySolution": "Happy Scalp Solution",
+      "solutionDescription": "From Croatian beauty editor Mihaela Batinic: My go-to natural beauty ingredient for an itchy scalp is to wash it with nettles. After gathering nettles from the meadow, boil them in 3-4 liters of water. Once cooled, wash your hair (no need for shampoo)."
+    },
+    "cuba": {
+      "displayName": "Cuba",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "cyprus": {
+      "displayName": "Cyprus",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "czech": {
+      "displayName": "Czech Republic",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "denmark": {
+      "displayName": "denmark",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "djibouti": {
+      "displayName": "Djibouti",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "dominican_republic": {
+      "displayName": "Dominican Republic",
+      "beautySolution": "Stronger Nails",
+      "solutionDescription": "Beat brittle nails with this unusual Dominican Republic trick: Add a chopped up clove of fresh garlic to clear nail polish. Wait about one week then apply the polish/garlic mixture to nails. The strong smell will wear off quickly, revealing stronger nails. "
+    },
+    "ecuador": {
+      "displayName": "Ecuador",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "egypt": {
+      "displayName": "Egypt",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "el_salvador": {
+      "displayName": "El Salvador",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "emirates": {
+      "displayName": "Emirates",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "equatorial_guinea": {
+      "displayName": "Equatorial Guinea",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "eritrea": {
+      "displayName": "Eritrea",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "estonia": {
+      "displayName": "Estonia",
+      "beautySolution": "Picture Perfect Makeup",
+      "solutionDescription": "According to Estonian model Karmen Pedaru: Get a face massage before putting makeup on."
+    },
+    "ethiopia": {
+      "displayName": "Ethiopia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "falkland_islands": {
+      "displayName": "Falkland Islands",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "finland": {
+      "displayName": "Finland",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "france": {
+      "displayName": "France",
+      "beautySolution": "Healthy Hair",
+      "solutionDescription": "A French tip for healthy locks: Don't brush them - ever. Seriously. Besides using a wide tooth comb while conditioning, many French women do not own a single hair brush. The result? Super shiny hair with just the right amount of wave."
+    },
+    "gambia": {
+      "displayName": "Gambia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "gabon": {
+      "displayName": "Gabon",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "georgia": {
+      "displayName": "Georgia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "germany": {
+      "displayName": "Germany",
+      "beautySolution": "Improved Circulation",
+      "solutionDescription": "From German beauty director Barbara Huber: 'In Germany, Kneipp treatments—treading in cold water—are very popular. They are good for improving the immune system and activating blood circulation.'"
+    },
+    "ghana": {
+      "displayName": "Ghana",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "greece": {
+      "displayName": "Greece",
+      "beautySolution": "Moisturized Skin",
+      "solutionDescription": "Olive oil is a regular part of the Greek diet, and also the Greek beauty routine: For super moisturized skin, replace your favorite moisturizer with oilve oil and apply directly to skin post-shower or bath."
+    },
+    "greenland": {
+      "displayName": "Greenland",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "guatemala": {
+      "displayName": "Guatemala",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "guyana": {
+      "displayName": "Guyana",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "guyane": {
+      "displayName": "French Guiana",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "haiti": {
+      "displayName": "Haiti",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "hawaii": {
+      "displayName": "Hawaii",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "honduras": {
+      "displayName": "Honduras",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "hungary": {
+      "displayName": "Hungary",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "iceland": {
+      "displayName": "Iceland",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "india": {
+      "displayName": "India",
+      "beautySolution": "Longer Locks",
+      "solutionDescription": "From beauty editor Parizaad Khan: Lustrous and healthy; waist-length, dark hair is the Indian woman’s badge of femininity and desirability. We have at-home hair rituals, where a visiting ‘maalishwali’ massage therapist oils the scalp with pure coconut, almond or sesame oils then massages it in, increasing blood circulation to boost hair growth."
+    },
+    "indonesia": {
+      "displayName": "Indonesia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "iran": {
+      "displayName": "Iran",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "iraq": {
+      "displayName": "Iraq",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "ireland": {
+      "displayName": "Ireland",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "israel": {
+      "displayName": "Israel",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "italy": {
+      "displayName": "Italy",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "ivoire": {
+      "displayName": "Ivoire",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "japan": {
+      "displayName": "Japan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": "From Japanese beauty editor Yumiko Murata: 'UV rays are stronger in Japan than in the West, so I protect my skin from dryness and damage throughout the year with UV cut cream and lots of moisturizing.'"
+    },
+    "jordan": {
+      "displayName": "Jordan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "kalimantan": {
+      "displayName": "Kalimantan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "kazakhstan": {
+      "displayName": "Kazakhstan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "kenya": {
+      "displayName": "Kenya",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "kuwait": {
+      "displayName": "Kuwait",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "laos": {
+      "displayName": "Laos",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "lebanon": {
+      "displayName": "Lebanon",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "lesotho": {
+      "displayName": "Lesotho",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "liberia": {
+      "displayName": "Liberia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "libya": {
+      "displayName": "Libya",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "lithuania": {
+      "displayName": "Lithuania",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "macedonia": {
+      "displayName": "Macedonia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "madagascar": {
+      "displayName": "Madagascar",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "malaysia": {
+      "displayName": "Malaysia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+
+    "malawi": {
+      "displayName": "Malawi",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "malaysia": {
+      "displayName": "Malaysia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "maldives": {
+      "displayName": "Maldives",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "mali": {
+      "displayName": "Mali",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "mauretania": {
+      "displayName": "Mauritania",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "mexico": {
+      "displayName": "Mexico",
+      "beautySolution": "Longer Lashes",
+      "solutionDescription": "According to Mexican beauty editor Beatriz Portuguez: 'We love our trusted brands. Mascaras de Pestañas Rosita, a mascara made with oil from the seeds of the mamey fruit, has a cult following; it’s an extremely black formulation and we swear the oil boosts lash growth. It’s 24 pesos (about $1) and Mexico’s bestselling mascara.'"
+    },
+    "moldova": {
+      "displayName": "Moldova",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "mongolia": {
+      "displayName": "Mongolia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "morocco" : {
+      "displayName": "Morocco",
+      "beautySolution": "A Restorative Oil",
+      "solutionDescription": "Argan oil is lauded for its healing and anti-aging properties, so ladies in Morocco use it for everything from skin, to hair, to nails. Extracted from the kernels of the argan tree and has been used for centuries for beauty treatments due to its restoring qualities. Surprisingly to many people in the West, the oil is also used to dip bread in or drizzled over pasta and couscous so it’s not only a great topical treatment but is healthful for the body."
+    },
+    "mozambique": {
+      "displayName": "Mozambique",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "namibia": {
+      "displayName": "Namibia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "nepal": {
+      "displayName": "Nepal",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "netherlands": {
+      "displayName": "Netherlands",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "new_zealand_north_island": {
+      "displayName": "New Zealand",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "new_zealand_south_island": {
+      "displayName": "New Zealand",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "nicaragua": {
+      "displayName": "Nicaragua",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "niger": {
+      "displayName": "Niger",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+
+    "nigeria": {
+      "displayName": "Nigeria",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "north_korea": {
+      "displayName": "North Korea",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "norway": {
+      "displayName": "Norway",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "oman": {
+      "displayName": "Oman",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "pakistan": {
+      "displayName": "Pakistan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "panama": {
+      "displayName": "Panama",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "papua_new_guinea": {
+      "displayName": "Papua New Guinea",
+      "beautySolution": "Clear Skin",
+      "solutionDescription": "Colorado State researchers studied the people of Papua New Guinea and couldn't find a single zit in the lot. Their secret? A diet that consists almost exclusively of protein, fruits, and veggies. Absent from their meals: simple carbohydrates — such as white bread and sweets. These carbs send our insulin levels soaring which sets off a series of reactions that can lead to breakouts."
+    },
+    "paraguay": {
+      "displayName": "Paraguay",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "peru": {
+      "displayName": "Peru",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "philippines": {
+      "displayName": "Philippines",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "poland": {
+      "displayName": "Poland",
+      "beautySolution": "Nourished Hair",
+      "solutionDescription": ""
+    },
+    "portugal": {
+      "displayName": "Portugal",
+      "beautySolution": "Healty Skin",
+      "solutionDescription": "From Portuguese beauty editor Joana Brito: 'Turmeric. It not only has amazing healing properties, but it's a great beauty product. I've discovered this DIY turmeric face mask: Mix flour, turmeric, honey, and milk to make a paste; apply it in a thin layer to your face; let dry for 20 minutes and rinse in the shower.'"
+    },
+    "puerto_rico": {
+      "displayName": "Puerto Rico",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "qatar": {
+      "displayName": "Qatar",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "romania": {
+      "displayName": "Romania",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "russia": {
+      "displayName": "Russia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "rwanda": {
+      "displayName": "Rwanda",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "sardinia": {
+      "displayName": "Sardinia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "saudi": {
+      "displayName": "Saudi Arabia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "senegal": {
+      "displayName": "Senegal",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "serbia_and_montenegro": {
+      "displayName": "Serbia and Montenegro",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "seychelles": {
+      "displayName": "Seychelles",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "sicily": {
+      "displayName": "Sicily",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "sierra_leone": {
+      "displayName": "Sierra Leone",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "slovakia": {
+      "displayName": "Slovakia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "slovenia": {
+      "displayName": "Slovenia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "solomon_islands": {
+      "displayName": "Solomon Islands",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "somaliland": {
+      "displayName": "Somaliland",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "suriname": {
+      "displayName": "Suriname",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "syria": {
+      "displayName": "Syria",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "soqotra": {
+      "displayName": "Yemen",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+
+    "south_africa": {
+      "displayName": "South Africa",
+      "beautySolution": "Moisturized Skin",
+      "solutionDescription": "From South African beauty editor Sarah Hoberman: 'I use pure shea butter as a body moisturizer in the winter. Frazer Parfum, a local beauty company, sources it from Mali. It is beautiful and natural, extremely moisturizing, and smells of the earth.'"
+    },
+    "south_korea": {
+      "displayName": "South Korea",
+      "beautySolution": "Moisturized Skin",
+      "solutionDescription": "According to South Korean beauty editor Okja Chung: 'Seoul is one of the driest cities in the world and leaves skin withered so Korean women are meticulous when it comes to moisturising; we take it very seriously. During the day most women ‘mist’ their faces to stem dehydration and twice a week I apply a face mask and for added moisture.'"
+    },
+
+    "spain": {
+      "displayName": "Spain",
+      "beautySolution": "Dark Circle Remedy",
+      "solutionDescription": "Spanish women have an easy trick to lighten pesky under eye circles: Simply cut potatoes into thin slices and place on top over eyes about for ten minutes."
+    },
+    "sri_lanka": {
+      "displayName": "Sri Lanka",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "sudan": {
+      "displayName": "Sudan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "sumatra": {
+      "displayName": "Sumatra",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+
+    "swaziland": {
+      "displayName": "Swaziland",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "sweden": {
+      "displayName": "Sweden",
+      "beautySolution": "Purge Toxins From Skin",
+      "solutionDescription": "A Swedish essential for healthy beautiful skin: A sauna session followed by a shower. The heat from the sauna is thought to purge toxins from the skin. The post sauna shower removes them entirely."
+    },
+    "switzerland": {
+      "displayName": "Switzerland",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "tajikistan": {
+      "displayName": "Tajikistan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "tanzania": {
+      "displayName": "Tanzania",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "tasmania": {
+      "displayName": "Tasmania",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "thailand": {
+      "displayName": "Thailand",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "togo": {
+      "displayName": "Togo",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "tunisia": {
+      "displayName": "Tunisia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "turkey": {
+      "displayName": "Turkey",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "turkmenistan": {
+      "displayName": "Turkmenistan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "uganda": {
+      "displayName": "Uganda",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "ukraine": {
+      "displayName": "Ukraine",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "uruguay": {
+      "displayName": "Uruguay",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "usa": {
+      "displayName": "United States",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "uzbekistan": {
+      "displayName": "Uzbekistan",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "venezuela": {
+      "displayName": "Venezuela",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "vietnam": {
+      "displayName": "Vietnam",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "zambia": {
+      "displayName": "Zambia",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "zimbabwe": {
+      "displayName": "Zimbabwe",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    },
+    "yemen": {
+      "displayName": "Yemen",
+      "beautySolution": "Coming Soon!",
+      "solutionDescription": ""
+    }
+
+
+
+}
+}
